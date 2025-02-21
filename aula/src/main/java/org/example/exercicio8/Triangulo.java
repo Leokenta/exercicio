@@ -19,5 +19,4 @@ public class Triangulo {
         System.out.println("Perimetro = " + perimetro);
 
     }
-
 }
